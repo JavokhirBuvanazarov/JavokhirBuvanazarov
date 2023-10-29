@@ -26,9 +26,9 @@ I am a Frontend developer with over 4 years of experience in developing robust, 
     <summary><h2 style="display: inline-block">Technologies & Tools:</h2></summary>
   </ul>
 </div>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,javascript,typescript,redux,graphql,java,spring,nodejs,git,aws,bootstrap,css,scss,tailwind,docker,elasticsearch,html,materialui,mongodb,mysql,vscode&perline=19" />
+    <img src="https://skillicons.dev/icons?i=react,next,javascript,typescript,redux,graphql,vue,java,spring,nodejs,git,aws,bootstrap,css,scss,tailwind,docker,elasticsearch,html,materialui,mongodb,mysql />
   </a>
 </p>
 

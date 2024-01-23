@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About me**
 
-I am a Frontend developer with over 4 years of experience in developing robust, scalable, optimized, modular web applications using ReactJS, NextJS, Vue and TypeScript.
+I am a Frontend developer with over 4 years of experience in developing robust, scalable, optimized, modular web applications using ReactJS, Vue, NodeJS, and TypeScript.
 
 - 🔭 I’m currently looking for a position in Frontend Development
 - 🌱 I’m currently learning the latest technologies and tools on it
